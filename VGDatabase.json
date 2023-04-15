@@ -1,0 +1,47 @@
+// if you would like to have your game verified, contact a publishing team or contact us on discord
+// https://discord.gg/ZKPjvWdRXj
+// The verified game database
+// stores all games verified by our top game curators
+
+[
+    {
+        "title": "Doors",
+        "creator": "LSPLASH",
+        "publisher": "LSPLASH*",
+        "placeid": 6516141723,
+        "thumbnail": "https://github.com/Dollor-Lua/Roblox-Desktop/raw/master/VGResources/Doors/doors-thumbnail.png",
+        "logo": "https://github.com/Dollor-Lua/Roblox-Desktop/raw/master/VGResources/Doors/doors-logo.png",
+        "description": "A new and unique horror game involving... doors.",
+        "credits": {
+            "Lightning_Splash": "Programming, Game/UI/Graphics/Audio Design, Music Producer, Writer",
+            "RediblesQW": "Builder, Modeler, Environment Artist, Game Design, Writer",
+            "Ghostly_Wowzers": "Extra Graphics Design",
+            "jasper_creations": "Animations"
+        }
+    },
+    {
+        "title": "Bee Swarm Simulator",
+        "creator": "Onett",
+        "publisher": "Onett*",
+        "placeid": 1537690962,
+        "thumbnail": "https://github.com/Dollor-Lua/Roblox-Desktop/raw/master/VGResources/BSS/bss-thumbnail.jpg",
+        "logo": "https://github.com/Dollor-Lua/Roblox-Desktop/raw/master/VGResources/BSS/bss-logo.png",
+        "description": "(No description provided)",
+        "credits": {
+            "Onett": "Programming, Game Design, Builder"
+        }
+    },
+    {
+        "title": "Pilgrammed",
+        "creator": "Phexonia Studios",
+        "publisher": "Phexonia Studios*",
+        "placeid": 6735572261,
+        "thumbnail": "https://github.com/Dollor-Lua/Roblox-Desktop/raw/main/VGResources/Pilgrammed/pilgrammed-thumbnail.png",
+        "logo": "https://github.com/Dollor-Lua/Roblox-Desktop/raw/main/VGResources/Pilgrammed/pilgrammed-logo.png",
+        "description": "Pilgrammed is an open-world RPG game. You can craft guns and armor.",
+        "credits": {
+            "Phexonia Studios": "Programming, Game Design, Building",
+            "Blotnik": "Clothing"
+        }
+    }
+]
