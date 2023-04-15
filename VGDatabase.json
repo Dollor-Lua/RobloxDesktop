@@ -43,5 +43,21 @@
             "Phexonia Studios": "Programming, Game Design, Building",
             "Blotnik": "Clothing"
         }
+    },
+    {
+        "title": "Phantom Forces",
+        "creator": "StyLiS Studios",
+        "publisher": "StyLiS Studios*",
+        "placeid": 292439477,
+        "thumbnail": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/PhantomForces/phantom-forces-thumbnail.png",
+        "logo": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/PhantomForces/phantom-forces-logo.png",
+        "description": "(No description provided)",
+        "credits": {
+            "litozinnamon": "Programming",
+            "shaylan007": "Lead Builder, Modeler",
+            "AxisAngle": "Programming, Physics, Math",
+            "Semaphorism": "Database Wizard",
+            "Raspy_Pi": "Programming, Anti-Cheat"
+        }
     }
 ]
