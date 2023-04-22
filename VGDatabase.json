@@ -59,5 +59,26 @@
             "Semaphorism": "Database Wizard",
             "Raspy_Pi": "Programming, Anti-Cheat"
         }
+    },
+    {
+        "title": "Juke's Towers of Hell",
+        "creator": "Juke's Towers of Hell",
+        "publisher": "Juke's Towers of Hell*",
+        "placeid": 8562822414,
+        "thumbnail": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/JToH/jtoh-thumbnail.png",
+        "logo": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/JToH/jtoh-logo.png",
+        "description": "Welcome to Juke's Towers of Hell, a tower styled obby game! While you as a human being may be cascading down the social spiral, perhaps you will be able to ascend one of these trauma inducing towers! This game consists of a series of single stage obbies ranging in difficulty from laughable to pure death.",
+        "credits": {
+            "Jukereise": "Owner",
+            "Gammattor": "Co-Owner",
+            "Vincentl9": "Developer",
+            "ejobb5": "GFX Artist",
+            "Fauxyde": "Spanish Translations",
+            "TheFuzzynoodle": "Brazilian/Protuguese Translations",
+            "Knighterisk": "Former Scripter",
+            "ciel_azulsky": "Former Developer",
+            "Cll0y": "Former Developer",
+            "FRANCOJ1119": "Former Developer"
+        }
     }
 ]
