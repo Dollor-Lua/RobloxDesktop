@@ -13,10 +13,10 @@
         "logo": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/Doors/doors-logo.png",
         "description": "A new and unique horror game involving... doors.",
         "credits": {
-            "Lightning_Splash": "Programming, Game/UI/Graphics/Audio Design, Music Producer, Writer",
-            "RediblesQW": "Builder, Modeler, Environment Artist, Game Design, Writer",
-            "Ghostly_Wowzers": "Extra Graphics Design",
-            "jasper_creations": "Animations"
+            "Lightning_Splash": { "id": 8645047, "role": "Programming, Primary Designer, Music Producer, Writer" },
+            "RediblesQW": { "id": 41767201, "role": "Builder, Modeler, Environment Artist, Game Design, Writer" },
+            "Ghostly_Wowzers": { "id": 64758432, "role": "Extra Graphics Design" },
+            "jasper_creations": { "id": 1418691708, "role": "Animations" }
         }
     },
     {
@@ -28,7 +28,7 @@
         "logo": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/BSS/bss-logo.png",
         "description": "(No description provided)",
         "credits": {
-            "Onett": "Programming, Game Design, Builder"
+            "Onett": { "id": 1912490, "role": "Programming, Game Design, Builder" }
         }
     },
     {
@@ -40,8 +40,11 @@
         "logo": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/Pilgrammed/pilgrammed-logo.png",
         "description": "Pilgrammed is an open-world RPG game. You can craft guns and armor.",
         "credits": {
-            "Phexonia Studios": "Programming, Game Design, Building",
-            "Blotnik": "Clothing"
+            "bluddbrain": { "id": 21518356, "role": "Owner" },
+            "deinbag": { "id": 62228398, "role": "Developer" },
+            "PurplefartsDev": { "id": 429353334, "role": "Developer" },
+            "RealAveryden": { "id": 47994743, "role": "Developer" },
+            "Blotnik": { "id": 266280, "role": "Clothing" }
         }
     },
     {
@@ -53,11 +56,11 @@
         "logo": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/PhantomForces/phantom-forces-logo.png",
         "description": "(No description provided)",
         "credits": {
-            "litozinnamon": "Programming",
-            "shaylan007": "Lead Builder, Modeler",
-            "AxisAngle": "Programming, Physics, Math",
-            "Semaphorism": "Database Wizard",
-            "Raspy_Pi": "Programming, Anti-Cheat"
+            "litozinnamon": { "id": 5725475, "role": "Programming" },
+            "shaylan007": { "id": 1667819, "role": "Lead Builder, Modeler" },
+            "AxisAngle": { "id": 525919, "role": "Programming, Physics, Math" },
+            "Semaphorism": { "id": 195329, "role": "Database Wizard" },
+            "Raspy_Pi": { "id": 31137804, "role": "Programming, Anti-Cheat" }
         }
     },
     {
@@ -69,16 +72,16 @@
         "logo": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/JToH/jtoh-logo.png",
         "description": "Welcome to Juke's Towers of Hell, a tower styled obby game! While you as a human being may be cascading down the social spiral, perhaps you will be able to ascend one of these trauma inducing towers! This game consists of a series of single stage obbies ranging in difficulty from laughable to pure death.",
         "credits": {
-            "Jukereise": "Owner",
-            "Gammattor": "Co-Owner",
-            "Vincentl9": "Developer",
-            "ejobb5": "GFX Artist",
-            "Fauxyde": "Spanish Translations",
-            "TheFuzzynoodle": "Brazilian/Protuguese Translations",
-            "Knighterisk": "Former Scripter",
-            "ciel_azulsky": "Former Developer",
-            "Cll0y": "Former Developer",
-            "FRANCOJ1119": "Former Developer"
+            "Jukereise": { "id": 9257852, "role": "Owner" },
+            "Gammattor": { "id": 104292531, "role": "Co-Owner" },
+            "Vincentl9": { "id": 42842832, "role": "Developer" },
+            "ejobb5": { "id": 119516143, "role": "GFX Artist" },
+            "Fauxyde": { "id": 127309682, "role": "Spanish Translations" },
+            "TheFuzzynoodle": { "id": 46477163, "role": "Brazilian/Protuguese Translations" },
+            "Knighterisk": { "id": 30956701, "role": "Former Scripter" },
+            "ciel_azulsky": { "id": 23369093, "role": "Former Developer" },
+            "Cll0y": { "id": 146350481, "role": "Former Developer" },
+            "FRANCOJ1119": { "id": 101742794, "role": "Former Developer" }
         }
     }
 ]
