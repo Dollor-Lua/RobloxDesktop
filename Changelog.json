@@ -1,8 +1,29 @@
 {
-  "0.1.3": [
-    "> Version 0.1.3 / April 15th, 2023 <",
-    "- Added Changelog",
-    "- Added support for multiple users",
-    "- Verified Phantom Forces"
-  ]
+    "0.1.4": [
+        "> Version 0.1.4 / April 24th, 2023 <",
+        "- Converted to typescript",
+        "- Added favoriting",
+        "- Verified JToH",
+        "- Added credits viewing",
+        "- Added description support",
+        "- Added ability to view gamepasses + if they're already purchased",
+        "    (cannot currently purchase gamepasses though)",
+        "",
+        ">> Backend Patch Notes <<",
+        "- Crap ton of security patches, client can basically no longer access server stuff directly",
+        "    - Client can still update user data and access private information such as .ROBLOSECURIY though",
+        "        > This shouldn't be a problem as the client is the user, same applies for stuff like browsers",
+        "- Moved game manager to the server (mostly, except the UI part)",
+        "- Server now handles data preserving",
+        "",
+        ">> Editor Patch Notes <<",
+        "- Putting *.d.ts files inside the @types folder for either `server` or `app` will allow you",
+        "    to have auto completion for specific types, for example the preload functions."
+    ],
+    "0.1.3": [
+        "> Version 0.1.3 / April 15th, 2023 <",
+        "- Added Changelog",
+        "- Added support for multiple users",
+        "- Verified Phantom Forces"
+    ]
 }
