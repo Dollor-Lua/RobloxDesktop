@@ -84,5 +84,22 @@
             "FRANCOJ1119": { "id": 101742794, "role": "Former Developer" },
             "ObrenTune": { "id": 48256472, "role": "Original Game" }
         }
+    },
+    {
+        "title": "Notoriety",
+        "creator": "Brick_man",
+        "publisher": "Moonstone Games*",
+        "placeid": 21532277,
+        "thumbnail": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/Notoriety/notoriety-thumbnail.png",
+        "logo": "https://github.com/Dollor-Lua/RobloxDesktop/raw/main/VGResources/Notoriety/notoriety-logo.png",
+        "description": "Notoriety is a stealth / action co-op FPS where you and your friends plan your own daring robberies. Choose from a variety of missions, an arsenal of weapons, gadgets, disguises, and pull off the ultimate heist.",
+        "credits": {
+            "Brick_man": { "id": 5283599, "role": "Lead Developer" },
+            "Sneaksie": { "id": 16682398, "role": "Game Design" },
+            "TailsyDaPrower": { "id": 46834375, "role": "Game Design" },
+            "iamgoofball": { "id": 34363752, "role": "Programming" },
+            "Im_Sleeby": { "id": 14551764, "role": "Level Design, Models" },
+            "Vintouka": { "id": 24421684, "role": "Level Design, Models" }
+        }
     }
 ]
